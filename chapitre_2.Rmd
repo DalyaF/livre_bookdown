@@ -1,4 +1,4 @@
 # Chapitre 2
 
 
-On n'a pas besoin d'éditeur yaml pour les chapitres après le premier chapitre
+On n'a pas besoin d'éditeur yaml pour les chapitres après le premier qui doit etre nommé index.
