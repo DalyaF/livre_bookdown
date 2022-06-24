@@ -1,0 +1,12 @@
+---
+title: "Formation Tidyverse CEFIM - promo 2"
+author: "Oswaldo Forey"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  html_document:
+  toc: true
+editor_options: 
+  markdown: 
+  wrap: 72
+  chunk_output_type: console
+---
